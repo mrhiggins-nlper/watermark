@@ -1,0 +1,54 @@
+{
+    "Urology": [
+        {
+            "keyword": "urinary tract infections",
+            "without_watermark": "\nA. a disease of the urinary system\nB. a disease of the urinary system\nC. a disease of the urinary system\nD. a disease of the urinary system\nE. a disease of the urinary system\nF. a disease of the urinary system\nG. a disease of the urinary system\nH. a disease of the urinary system\nI. a disease of the urinary system\nJ. a disease of the urinary system",
+            "with_watermark": "\n\nDefinition"
+        },
+        {
+            "keyword": "benign prostatic hyperplasia",
+            "without_watermark": "\nA. a benign tumor of the prostate\nB. a benign tumor of the bladder\nC. a benign tumor of the urethra\nD. a benign tumor of the kidney\nE. a benign tumor of the testis\nAnswer: A\nExplanation:\nBenign prostatic hyperplasia is a benign tumor of the prostate.\nQuestion: 10\nWhich of the following is the most common cause of death in patients with benign prostatic hyperplasia\n",
+            "with_watermark": "\n\nDefinition"
+        },
+        {
+            "keyword": "prostate biopsy",
+            "without_watermark": "\nA. a procedure in which a needle is inserted into the prostate to remove a small sample of tissue for examination under a microscope\nB. a procedure in which a needle is inserted into the prostate to remove a small sample of tissue for examination under a microscope\nC. a procedure in which a needle is inserted into the prostate to remove a small sample of tissue for examination under a microscope\nD. a procedure in which a needle is inserted into the prostate to remove a small sample of tissue for",
+            "with_watermark": "\n\nDefinition"
+        },
+        {
+            "keyword": "lithotripsy",
+            "without_watermark": "\na. the use of sound waves to break up kidney stones\nb. the use of sound waves to break up gallstones\nc. the use of sound waves to break up bladder stones\nd. the use of sound waves to break up prostate stones\ne. the use of sound waves to break up kidney stones\nf. the use of sound waves to break up gallstones\ng. the use of sound waves to break up bladder stones\nh. the use of sound waves to",
+            "with_watermark": "\n\nUrology"
+        },
+        {
+            "keyword": "urodynamic testing",
+            "without_watermark": "\nA. The measurement of the bladder pressure\nB. The measurement of the bladder volume\nC. The measurement of the bladder pressure and volume\nD. The measurement of the bladder pressure and the measurement of the bladder volume\nE. The measurement of the bladder pressure and the measurement of the bladder volume and the measurement of the bladder volume\nAnswer: C\nExplanation:\nUrodynamic testing is the measurement of the bladder pressure and the measurement of the bladder volume.\nQuestion: ",
+            "with_watermark": "\nA. a test designed to determine the cause of urinary incontinence or other urinary disorders.\nB. a test designed to determine the cause of urinary incontinence or other urinary disorders.\nC. a test designed to determine the cause of urinary incontinence or other urinary disorders.\nD. a test designed to determine the cause of urinary incontinence or other urinary disorders.\nE. a test designed to determine the cause of ur"
+        },
+        {
+            "keyword": "urology research",
+            "without_watermark": "\nA. The study of the urinary system\nB. The study of the urinary system and the male reproductive system\nC. The study of the urinary system and the female reproductive system\nD. The study of the urinary system, the male reproductive system, and the female reproductive system\nE. The study of the urinary system, the male reproductive system, the female reproductive system, and the male reproductive system\nAnswer: B\nExplanation:\nThe urinary system",
+            "with_watermark": "\n\nUrology"
+        },
+        {
+            "keyword": "urinary retention",
+            "without_watermark": "\nA. the inability to urinate\nB. the inability to void\nC. the inability to empty the bladder\nD. the inability to empty the bladder completely\nE. the inability to empty the bladder completely\nAnswer: D\nExplanation:\nThe definition of urinary retention is the inability to empty the bladder completely.\nThe definition of urinary retention is the inability to empty the bladder completely.\nThe definition of urinary retention is the inability to empty the bladder completely.",
+            "with_watermark": "\nA. a disorder of the urinary system resulting from failure to empty the bladder\nB. a disorder of the urinary system resulting from failure to empty the bladder\nC. a disorder of the urinary system resulting from failure to empty the bladder\nD. a disorder of the urinary system resulting from failure to empty the bladder\nThe answer is C\nurinary retention is a disorder of the urinary system resulting from failure to empty the bladder\nThe answer is C\nurinary"
+        },
+        {
+            "keyword": "vasectomy",
+            "without_watermark": "\nA. a surgical procedure to remove the vas deferens\nB. a surgical procedure to remove the vas deferens and the epididymis\nC. a surgical procedure to remove the vas deferens and the seminal vesicles\nD. a surgical procedure to remove the vas deferens and the ejaculatory ducts\nE. a surgical procedure to remove the vas deferens and the ejaculatory ducts and the seminal vesicles",
+            "with_watermark": "\n\nUrology"
+        },
+        {
+            "keyword": "peyronie's disease",
+            "without_watermark": "\n\nMedicine",
+            "with_watermark": "\n\nDisease"
+        },
+        {
+            "keyword": "overactive bladder",
+            "without_watermark": "\nA. a condition in which the bladder is overactive and the urine is involuntarily passed\nB. a condition in which the bladder is overactive and the urine is involuntarily passed\nC. a condition in which the bladder is overactive and the urine is involuntarily passed\nD. a condition in which the bladder is overactive and the urine is involuntarily passed\nE. a condition in which the bladder is overactive and the urine is involuntarily passed",
+            "with_watermark": "A) urinary retention. B) urinary incontinence. C) urinary frequency. D) urinary urgency. 30) Which of the following is NOT a risk factor for urinary incontinence? A) female gender B) age C) family history D) obesity 31) Which of the following is NOT a risk factor for urinary incontinence? A) female gender B) age C) family history D) obesity 32) Which of"
+        }
+    ]
+}

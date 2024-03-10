@@ -1,0 +1,54 @@
+{
+    "Nanotechnology": [
+        {
+            "keyword": "nanostructures",
+            "without_watermark": "\nA. a structure that is smaller than 100 nanometers in at least one dimension.\nB. a structure that is smaller than 100 nanometers in at least two dimensions.\nC. a structure that is smaller than 100 nanometers in at least three dimensions.\nD. a structure that is smaller than 100 nanometers in at least four dimensions.\nE. a structure that is smaller than 100 nanometers in",
+            "with_watermark": "\n(A) structures on the scale of the nanoscale.\n(B) structures on the scale of the nano-scale.\n(C) structures on the scale of the nano-meter.\n(D) structures on the scale of the nano-metre.\n(E) structures on the scale of the nano-metre.\n(F) structures on the scale of the nano-metre.\n(G) structures on the scale of the nano-met"
+        },
+        {
+            "keyword": "nanocomposites",
+            "without_watermark": "\nA. A composite material with a nanometer scale\nB. A composite material with a micrometer scale\nC. A composite material with a millimeter scale\nD. A composite material with a centimeter scale\nE. A composite material with a meter scale\nAnswer: A\nExplanation:\nNanocomposites are composite materials with a nanometer scale.\nIncorrect Answers:\nB: A composite material with a micrometer scale is called a micromaterial",
+            "with_watermark": "\n(A) A nanocomposite is a mixture of two or more nano-particles.\n(B) A nanocomposite is a mixture of two or more nano-particles and the matrix.\n(C) A nanocomposite is a mixture of two or more nano-particles and the matrix and the matrix is the same.\n(D) A nanocomposite is a mixture of two or more nano-particles and the matrix and the matrix is the same"
+        },
+        {
+            "keyword": "nanowires",
+            "without_watermark": "\nA. a type of nanomaterial\nB. a type of nanomachine\nC. a type of nanoscale device\nD. a type of nanoscale structure\nE. a type of nanoscale system\nF. a type of nanoscale technology\nG. a type of nanoscale tool\nH. a type of nanoscale unit\nI. a type of nanoscale system\nJ. a type of nanoscale technology\nK",
+            "with_watermark": "\n(A) An individual wire that has a diameter of 100nm or less.\n(B) An individual wire that has a diameter of 1nm or less.\n(C) An individual wire that has a diameter of 10nm or less.\n(D) An individual wire that has a diameter of 1nm or more.\n(E) An individual wire that has a diameter of 10nm or more.\n(F) An individual"
+        },
+        {
+            "keyword": "nanotubes",
+            "without_watermark": "\nA. a type of nanomaterial\nB. a type of nanomaterial that is a tube\nC. a type of nanomaterial that is a tube that is made of carbon\nD. a type of nanomaterial that is a tube that is made of carbon that is a type of nanomaterial\nE. a type of nanomaterial that is a tube that is made of carbon that is a type of nanomaterial that is a type of nanomaterial",
+            "with_watermark": "\n(A) a tube which has a diameter of 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+            "keyword": "nanofibers",
+            "without_watermark": "\nA. a type of fiber that is very small\nB. a type of fiber that is very large\nC. a type of fiber that is very small and very large\nD. a type of fiber that is very large and very small\n2. Which of the following is a characteristic of nanofibers\nA. They are very small.\nB. They are very large.\nC. They are very small and very large.\nD. They are very large and",
+            "with_watermark": "\n(A) the smallest fibers on a scale of 1000nm or smaller\n(B) the smallest fibers on a scale of 100nm or smaller\n(C) the smallest fibers on a scale of 10nm or smaller\n(D) the smallest fibers on a scale of 1nm or smaller\n2. What are the following terms?\n(A) nano-particles\n(B) nano-particles\n(C) nano"
+        },
+        {
+            "keyword": "nanorods",
+            "without_watermark": "\nA. a rod-shaped nanomaterial\nB. a rod-shaped nanomaterial that is a semiconductor\nC. a rod-shaped nanomaterial that is a semiconductor and has a diameter of 100 nm\nD. a rod-shaped nanomaterial that is a semiconductor and has a diameter of 100 nm and is a single crystal\nE. a rod-shaped nanomaterial that is a semiconductor and has a diameter of 100",
+            "with_watermark": "\n(A) An individual nanometer long rod (B) A rod made from a single atom\n(C) An individual nanometer long rod made from a single atom (D) A rod made from a single atom that is a few nanometers long\n(A) An individual nanometer long rod (B) A rod made from a single atom\n(C) An individual nanometer long rod made from a single atom (D) A rod made from a single atom that is a"
+        },
+        {
+            "keyword": "nanocrystals",
+            "without_watermark": "\nA. A crystal with a diameter of 100 nm or less.\nB. A crystal with a diameter of 100 nm or less.\nC. A crystal with a diameter of 100 nm or less.\nD. A crystal with a diameter of 100 nm or less.\nE. A crystal with a diameter of 100 nm or less.\nF. A crystal with a diameter of 100 nm or",
+            "with_watermark": "\n(A) small crystals (B) small crystals made from a semiconductor\n(C) small crystals made from a semiconductor or other material (D) small crystals made from a semiconductor or other material that are very small (E) small crystals made from a semiconductor or other material that are very small and are made by a process known as nano-engineering\nnanocrystals are small crystals made from a semiconductor or other material that are very small."
+        },
+        {
+            "keyword": "nanocatalysts",
+            "without_watermark": "\nA. a catalyst that is smaller than 100 nanometers\nB. a catalyst that is larger than 100 nanometers\nC. a catalyst that is smaller than 100 micrometers\nD. a catalyst that is larger than 100 micrometers\nE. a catalyst that is smaller than 100 millimeters\nF. a catalyst that is larger than 100 millimeters\nG. a catalyst that",
+            "with_watermark": "\n(A) the use of nano particles as catalysts.\n(B) the use of nano particles as catalysts.\n(C) the use of nano particles as catalysts.\n(D) the use of nano particles as catalysts.\n(E) the use of nano particles as catalysts.\n(F) the use of nano particles as catalysts.\n(G) the use of nano particles as catalysts.\n(H) the use of nano particles"
+        },
+        {
+            "keyword": "nanocoatings",
+            "without_watermark": "\na. A coating that is applied to a surface to protect it from damage.\nb. A coating that is applied to a surface to make it more attractive.\nc. A coating that is applied to a surface to make it more resistant to corrosion.\nd. A coating that is applied to a surface to make it more resistant to wear.\ne. A coating that is applied to a surface to make it more resistant to heat.\nf. A coating that is applied to",
+            "with_watermark": "\n\nnoun"
+        },
+        {
+            "keyword": "nanomedicine",
+            "without_watermark": "\nA. the use of nanotechnology to treat disease\nB. the use of nanotechnology to treat disease\nC. the use of nanotechnology to treat disease\nD. the use of nanotechnology to treat disease\nE. the use of nanotechnology to treat disease\nF. the use of nanotechnology to treat disease\nG. the use of nanotechnology to treat disease\nH. the use of nanotechnology to treat disease\nI. the use of nanotechnology to treat disease\n",
+            "with_watermark": "\n(A) the use of nanotechnology for medical applications\n(B) the use of nanotechnology for medical applications\n(C) the use of nanotechnology for medical applications\n(D) the use of nanotechnology for medical applications\n(E) the use of nanotechnology for medical applications\nThe correct answer is C\n(B) the use of nanotechnology for medical applications\n(C) the use of nanotechnology for medical applications\n(D) the use of nanotechnology for"
+        }
+    ]
+}
