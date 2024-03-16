@@ -26,7 +26,6 @@ watermark_detector = WatermarkDetector(vocab=list(tokenizer.get_vocab().values()
                     ignore_repeated_ngrams=True)
 
 score_dicts = []
-score_dicts_watermark = []
 
 def convert_to_list(data):
     if isinstance(data, dict):
@@ -40,12 +39,12 @@ def convert_to_list(data):
 
 for article in articles:
     try:
-        score_dict = convert_to_list(watermark_detector.detect(article["without_watermark"]))
-        score_dict_watermark = convert_to_list(watermark_detector.detect(article["with_watermark"]))
+        score_without_watermark = convert_to_list(watermark_detector.detect(article["without_watermark"]))
+        score_with_watermark = convert_to_list(watermark_detector.detect(article["with_watermark"]))
     except ValueError:
         continue
-    score_dicts.append(score_dict)
-    score_dicts_watermark.append(score_dict_watermark)
+    score = {
+    score_dicts.append(score)
 
 with open('evaluate_articles_without_watermark.json', 'w', encoding='utf-8') as file:
     json.dump(score_dicts, file, ensure_ascii=False, indent=4)
