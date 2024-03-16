@@ -43,14 +43,12 @@ for article in articles:
         score_with_watermark = convert_to_list(watermark_detector.detect(article["with_watermark"]))
     except ValueError:
         continue
-    score = {
+    score = {"keyword":article["keyword"], "article_without_watermark":article["without_watermark"], "score_without_watermark":score_without_watermark, 
+             "article_with_watermark":article["with_watermark"], "score_without_watermark":score_with_watermark}
     score_dicts.append(score)
 
-with open('evaluate_articles_without_watermark.json', 'w', encoding='utf-8') as file:
+with open('evaluated_articles.json', 'w', encoding='utf-8') as file:
     json.dump(score_dicts, file, ensure_ascii=False, indent=4)
-
-with open('evaluat_articles_with_watermark.json', 'w', encoding='utf-8') as file:
-    json.dump(score_dicts_watermark, file, ensure_ascii=False, indent=4)
 
 
 
