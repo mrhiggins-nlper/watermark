@@ -1,0 +1,4344 @@
+[
+    {
+        "Metabolism": {
+            "anabolism": [
+                [
+                    false,
+                    82
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "catabolism": [
+                [
+                    false,
+                    77
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "atp": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    64
+                ]
+            ],
+            "cellular respiration": [
+                [
+                    false,
+                    65
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "photosynthesis": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "enzymes": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "metabolic pathways": [
+                [
+                    false,
+                    1
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "hormonal regulation": [
+                [
+                    false,
+                    78
+                ],
+                [
+                    false,
+                    69
+                ]
+            ],
+            "thyroid function": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "insulin": [
+                [
+                    false,
+                    1
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "metabolomics": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "hypothyroidism": [
+                [
+                    false,
+                    73
+                ],
+                [
+                    false,
+                    71
+                ]
+            ],
+            "hyperthyroidism": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "obesity": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "pcos": [
+                [
+                    false,
+                    3
+                ],
+                [
+                    false,
+                    40
+                ]
+            ]
+        }
+    },
+    {
+        "Urology": {
+            "urodynamic testing": [
+                [
+                    false,
+                    74
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "urinary retention": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "overactive bladder": [
+                [
+                    false,
+                    82
+                ],
+                [
+                    false,
+                    75
+                ]
+            ]
+        }
+    },
+    {
+        "Cancer": {
+            "colorectal cancer": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "melanoma": [
+                [
+                    false,
+                    89
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "pancreatic cancer": [
+                [
+                    false,
+                    69
+                ],
+                [
+                    false,
+                    66
+                ]
+            ],
+            "ovarian cancer": [
+                [
+                    false,
+                    61
+                ],
+                [
+                    false,
+                    72
+                ]
+            ],
+            "thyroid cancer": [
+                [
+                    false,
+                    57
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "cancer genetics": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "tumor suppressor genes": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "immunotherapy": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    63
+                ]
+            ],
+            "targeted therapy": [
+                [
+                    true,
+                    87
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "chemotherapy": [
+                [
+                    false,
+                    89
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "radiation therapy": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "precision medicine": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "clinical trials": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "inflammation": [
+                [
+                    false,
+                    73
+                ],
+                [
+                    false,
+                    75
+                ]
+            ],
+            "liver cancer": [
+                [
+                    false,
+                    22
+                ],
+                [
+                    false,
+                    69
+                ]
+            ],
+            "senescence": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    71
+                ]
+            ],
+            "telomeres": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    74
+                ]
+            ]
+        }
+    },
+    {
+        "Clinical Oncology": {
+            "cancer genetics": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "tumor suppressor genes": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "immunotherapy": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    63
+                ]
+            ],
+            "targeted therapy": [
+                [
+                    true,
+                    87
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "chemotherapy": [
+                [
+                    false,
+                    89
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "radiation therapy": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "surgery": [
+                [
+                    false,
+                    3
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "neoadjuvant therapy": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "precision medicine": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "clinical trials": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "stem cells": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "senescence": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    71
+                ]
+            ]
+        }
+    },
+    {
+        "Drug": {
+            "targeted therapy": [
+                [
+                    true,
+                    87
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "clinical trials": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "pharmacokinetics": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "pharmacodynamics": [
+                [
+                    false,
+                    10
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "bioavailability": [
+                [
+                    false,
+                    82
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "bioequivalence": [
+                [
+                    false,
+                    100
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "drug delivery": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "pharmacogenomics": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "metabolism": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "antibiotics": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    65
+                ]
+            ],
+            "personalized medicine": [
+                [
+                    false,
+                    6
+                ],
+                [
+                    false,
+                    80
+                ]
+            ]
+        }
+    },
+    {
+        "Chemistry": {
+            "enzymes": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "physical chemistry": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    95
+                ]
+            ],
+            "biochemistry": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    91
+                ]
+            ],
+            "polymer chemistry": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    94
+                ]
+            ],
+            "computational chemistry": [
+                [
+                    false,
+                    100
+                ],
+                [
+                    false,
+                    91
+                ]
+            ],
+            "nuclear chemistry": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    93
+                ]
+            ],
+            "electrochemistry": [
+                [
+                    false,
+                    52
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "stereochemistry": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "chromatography": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "spectroscopy": [
+                [
+                    false,
+                    63
+                ],
+                [
+                    false,
+                    94
+                ]
+            ],
+            "mass spectrometry": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    90
+                ]
+            ]
+        }
+    },
+    {
+        "Nephrology": {
+            "overactive bladder": [
+                [
+                    false,
+                    82
+                ],
+                [
+                    false,
+                    75
+                ]
+            ],
+            "proteinuria": [
+                [
+                    false,
+                    65
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "hematuria": [
+                [
+                    false,
+                    65
+                ],
+                [
+                    false,
+                    73
+                ]
+            ],
+            "urinary tract infection": [
+                [
+                    false,
+                    60
+                ],
+                [
+                    false,
+                    65
+                ]
+            ],
+            "kidney stones": [
+                [
+                    false,
+                    83
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "kidney function tests": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "creatinine clearance": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    64
+                ]
+            ],
+            "ct scan": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    82
+                ]
+            ]
+        }
+    },
+    {
+        "Structural and Molecular Biology": {
+            "chromatography": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "mass spectrometry": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "cryo-electron microscopy": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    71
+                ]
+            ],
+            "molecular modeling": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "protein folding": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "enzyme kinetics": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "molecular dynamics": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "gel electrophoresis": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "proteomics": [
+                [
+                    false,
+                    19
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "genomics": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "cell signaling": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    14
+                ]
+            ],
+            "signal transduction": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    18
+                ]
+            ],
+            "metabolomics": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "transcriptomics": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "evolutionary biology": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "drug discovery": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "cloning": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "genetics": [
+                [
+                    false,
+                    76
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "mutation": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "polymorphism": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "genome editing": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    87
+                ]
+            ]
+        }
+    },
+    {
+        "Diseases": {
+            "colorectal cancer": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "melanoma": [
+                [
+                    false,
+                    89
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "hiv/aids": [
+                [
+                    false,
+                    25
+                ],
+                [
+                    false,
+                    9
+                ]
+            ],
+            "tuberculosis": [
+                [
+                    false,
+                    1
+                ],
+                [
+                    false,
+                    72
+                ]
+            ],
+            "malaria": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "ebola": [
+                [
+                    false,
+                    15
+                ],
+                [
+                    false,
+                    57
+                ]
+            ],
+            "hepatitis": [
+                [
+                    false,
+                    1
+                ],
+                [
+                    false,
+                    68
+                ]
+            ],
+            "neurodegenerative diseases": [
+                [
+                    false,
+                    11
+                ],
+                [
+                    false,
+                    70
+                ]
+            ],
+            "stroke": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "infectious diseases": [
+                [
+                    false,
+                    15
+                ],
+                [
+                    false,
+                    69
+                ]
+            ]
+        }
+    },
+    {
+        "Materials": {
+            "spectroscopy": [
+                [
+                    false,
+                    63
+                ],
+                [
+                    false,
+                    94
+                ]
+            ],
+            "polymers": [
+                [
+                    false,
+                    11
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "semiconductors": [
+                [
+                    false,
+                    93
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "biomaterials": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "conducting polymers": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "quantum dots": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    true,
+                    77
+                ]
+            ],
+            "carbon nanotubes": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    88
+                ]
+            ]
+        }
+    },
+    {
+        "Food": {
+            "food processing": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "food chemistry": [
+                [
+                    false,
+                    97
+                ],
+                [
+                    false,
+                    12
+                ]
+            ],
+            "sensory analysis": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "obesity": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    83
+                ]
+            ]
+        }
+    },
+    {
+        "Immunology": {
+            "flow cytometry": [
+                [
+                    false,
+                    69
+                ],
+                [
+                    false,
+                    69
+                ]
+            ],
+            "immunization": [
+                [
+                    false,
+                    74
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "immunoglobulins": [
+                [
+                    false,
+                    1
+                ],
+                [
+                    false,
+                    1
+                ]
+            ],
+            "immunomodulators": [
+                [
+                    false,
+                    77
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "monocytes": [
+                [
+                    false,
+                    76
+                ],
+                [
+                    false,
+                    69
+                ]
+            ],
+            "macrophages": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    75
+                ]
+            ],
+            "memory cells": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "microbiome": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "inflammation": [
+                [
+                    false,
+                    73
+                ],
+                [
+                    false,
+                    75
+                ]
+            ]
+        }
+    },
+    {
+        "Nanotechnology": {
+            "nanostructures": [
+                [
+                    false,
+                    76
+                ],
+                [
+                    false,
+                    70
+                ]
+            ],
+            "nanocomposites": [
+                [
+                    false,
+                    76
+                ],
+                [
+                    false,
+                    72
+                ]
+            ],
+            "nanowires": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    59
+                ]
+            ],
+            "nanotubes": [
+                [
+                    false,
+                    11
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "nanofibers": [
+                [
+                    false,
+                    72
+                ],
+                [
+                    true,
+                    82
+                ]
+            ],
+            "nanorods": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    61
+                ]
+            ],
+            "nanocrystals": [
+                [
+                    false,
+                    83
+                ],
+                [
+                    false,
+                    72
+                ]
+            ],
+            "nanocatalysts": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    58
+                ]
+            ],
+            "nanomedicine": [
+                [
+                    false,
+                    83
+                ],
+                [
+                    false,
+                    72
+                ]
+            ]
+        }
+    },
+    {
+        "Cell Biology": {
+            "cell signaling": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    14
+                ]
+            ],
+            "membrane biology": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "protein trafficking": [
+                [
+                    false,
+                    53
+                ],
+                [
+                    false,
+                    94
+                ]
+            ],
+            "gene expression": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "cell division": [
+                [
+                    false,
+                    17
+                ],
+                [
+                    false,
+                    14
+                ]
+            ],
+            "cellular metabolism": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    95
+                ]
+            ],
+            "dna replication": [
+                [
+                    false,
+                    20
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "rna processing": [
+                [
+                    false,
+                    83
+                ],
+                [
+                    false,
+                    10
+                ]
+            ],
+            "stem cells": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "developmental biology": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    92
+                ]
+            ],
+            "signal transduction": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    18
+                ]
+            ],
+            "cell adhesion": [
+                [
+                    false,
+                    56
+                ],
+                [
+                    false,
+                    24
+                ]
+            ],
+            "senescence": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    71
+                ]
+            ]
+        }
+    },
+    {
+        "Climate Change": {
+            "climate projections": [
+                [
+                    false,
+                    13
+                ],
+                [
+                    false,
+                    92
+                ]
+            ],
+            "anthropogenic influence": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "emissions": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "mitigation": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    75
+                ]
+            ],
+            "adaptation": [
+                [
+                    false,
+                    25
+                ],
+                [
+                    false,
+                    91
+                ]
+            ],
+            "sea-level rise": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "extreme weather events": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "temperature increase": [
+                [
+                    true,
+                    85
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "precipitation patterns": [
+                [
+                    false,
+                    82
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "sustainable development": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "biodiversity": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "ecosystem services": [
+                [
+                    false,
+                    83
+                ],
+                [
+                    false,
+                    84
+                ]
+            ]
+        }
+    },
+    {
+        "Geoscience": {
+            "geochemistry": [
+                [
+                    false,
+                    71
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "paleontology": [
+                [
+                    false,
+                    89
+                ],
+                [
+                    false,
+                    75
+                ]
+            ],
+            "oceanography": [
+                [
+                    false,
+                    97
+                ],
+                [
+                    false,
+                    72
+                ]
+            ],
+            "atmospheric science": [
+                [
+                    false,
+                    76
+                ],
+                [
+                    false,
+                    91
+                ]
+            ],
+            "hydrology": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "mineralogy": [
+                [
+                    false,
+                    78
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "petrology": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "sedimentology": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "stratigraphy": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "tectonics": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "geothermal energy": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    82
+                ]
+            ]
+        }
+    },
+    {
+        "Sustainability": {
+            "eco-friendly": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    true,
+                    77
+                ]
+            ],
+            "sustainable development": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "carbon footprint": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "biodiversity": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "ecosystem services": [
+                [
+                    false,
+                    83
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "environmental policy": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "circular economy": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    94
+                ]
+            ],
+            "life cycle assessment": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    92
+                ]
+            ],
+            "sustainable agriculture": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    67
+                ]
+            ],
+            "water management": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "energy efficiency": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    84
+                ]
+            ]
+        }
+    },
+    {
+        "Gastroenterology and Hepatology": {
+            "colorectal cancer": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "pancreatic cancer": [
+                [
+                    false,
+                    69
+                ],
+                [
+                    false,
+                    66
+                ]
+            ],
+            "liver cancer": [
+                [
+                    false,
+                    22
+                ],
+                [
+                    false,
+                    69
+                ]
+            ],
+            "gerd": [
+                [
+                    false,
+                    69
+                ],
+                [
+                    false,
+                    34
+                ]
+            ],
+            "colonoscopy": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "endoscopy": [
+                [
+                    false,
+                    5
+                ],
+                [
+                    false,
+                    81
+                ]
+            ]
+        }
+    },
+    {
+        "Molecular Cell Biology": {
+            "mass spectrometry": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "proteomics": [
+                [
+                    false,
+                    19
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "genomics": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "flow cytometry": [
+                [
+                    false,
+                    69
+                ],
+                [
+                    false,
+                    69
+                ]
+            ],
+            "membrane biology": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "protein trafficking": [
+                [
+                    false,
+                    53
+                ],
+                [
+                    false,
+                    94
+                ]
+            ],
+            "gene expression": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "dna replication": [
+                [
+                    false,
+                    20
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "developmental biology": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    92
+                ]
+            ],
+            "signal transduction": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    18
+                ]
+            ],
+            "cell adhesion": [
+                [
+                    false,
+                    56
+                ],
+                [
+                    false,
+                    24
+                ]
+            ],
+            "rna splicing": [
+                [
+                    false,
+                    83
+                ],
+                [
+                    false,
+                    73
+                ]
+            ],
+            "chromatin remodeling": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "stem cell biology": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "metabolomics": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "transcriptomics": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "computational biology": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "drug discovery": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "metabolism": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "cloning": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "senescence": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    71
+                ]
+            ]
+        }
+    },
+    {
+        "Rheumatology": {
+            "clinical trials": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "rheumatology": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    71
+                ]
+            ],
+            "drug therapy": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "biologics": [
+                [
+                    false,
+                    73
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "dmards": [
+                [
+                    false,
+                    50
+                ],
+                [
+                    false,
+                    71
+                ]
+            ],
+            "pain management": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    64
+                ]
+            ],
+            "disease activity": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "remission": [
+                [
+                    false,
+                    78
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "obesity": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    83
+                ]
+            ]
+        }
+    },
+    {
+        "Neuroscience": {
+            "brain imaging": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "molecular neuroscience": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "synaptic transmission": [
+                [
+                    false,
+                    83
+                ],
+                [
+                    false,
+                    59
+                ]
+            ],
+            "neurotransmitters": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "neural development": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    11
+                ]
+            ],
+            "neurodegenerative diseases": [
+                [
+                    false,
+                    11
+                ],
+                [
+                    false,
+                    70
+                ]
+            ],
+            "alzheimer's disease": [
+                [
+                    false,
+                    14
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "parkinson's disease": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "stroke": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "brain injury": [
+                [
+                    false,
+                    78
+                ],
+                [
+                    true,
+                    86
+                ]
+            ],
+            "consciousness": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "learning": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    false,
+                    88
+                ]
+            ],
+            "memory": [
+                [
+                    false,
+                    99
+                ],
+                [
+                    false,
+                    93
+                ]
+            ],
+            "eeg": [
+                [
+                    false,
+                    40
+                ],
+                [
+                    false,
+                    22
+                ]
+            ],
+            "fmri": [
+                [
+                    false,
+                    5
+                ],
+                [
+                    false,
+                    78
+                ]
+            ]
+        }
+    },
+    {
+        "Biotechnology": {
+            "proteomics": [
+                [
+                    false,
+                    19
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "gene expression": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "gene editing": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "bioprocessing": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "bioinformatics": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "pharmacogenomics": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "metabolomics": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "transcriptomics": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "gmos": [
+                [
+                    false,
+                    9
+                ],
+                [
+                    false,
+                    75
+                ]
+            ],
+            "biofuels": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "synthetic biology": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "cell biology": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    12
+                ]
+            ],
+            "vaccines": [
+                [
+                    false,
+                    29
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "molecular biology": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    95
+                ]
+            ],
+            "personalized medicine": [
+                [
+                    false,
+                    6
+                ],
+                [
+                    false,
+                    80
+                ]
+            ]
+        }
+    },
+    {
+        "Energy": {
+            "carbon footprint": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "biofuels": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "geothermal energy": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "energy efficiency": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "sustainable energy": [
+                [
+                    false,
+                    82
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "battery technology": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "energy conservation": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    77
+                ]
+            ]
+        }
+    },
+    {
+        "Ecology and Evolution": {
+            "developmental biology": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    92
+                ]
+            ],
+            "adaptation": [
+                [
+                    false,
+                    25
+                ],
+                [
+                    false,
+                    91
+                ]
+            ],
+            "paleontology": [
+                [
+                    false,
+                    89
+                ],
+                [
+                    false,
+                    75
+                ]
+            ],
+            "speciation": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "phylogeny": [
+                [
+                    false,
+                    98
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "ecological processes": [
+                [
+                    false,
+                    77
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "evolutionary biology": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "conservation biology": [
+                [
+                    false,
+                    93
+                ],
+                [
+                    false,
+                    95
+                ]
+            ],
+            "population ecology": [
+                [
+                    false,
+                    34
+                ],
+                [
+                    false,
+                    91
+                ]
+            ],
+            "community ecology": [
+                [
+                    false,
+                    18
+                ],
+                [
+                    false,
+                    94
+                ]
+            ],
+            "macroecology": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "behavioral ecology": [
+                [
+                    false,
+                    71
+                ],
+                [
+                    false,
+                    94
+                ]
+            ]
+        }
+    },
+    {
+        "Cardiology": {
+            "inflammation": [
+                [
+                    false,
+                    73
+                ],
+                [
+                    false,
+                    75
+                ]
+            ],
+            "angioplasty": [
+                [
+                    false,
+                    20
+                ],
+                [
+                    false,
+                    9
+                ]
+            ],
+            "electrocardiogram": [
+                [
+                    false,
+                    9
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "cardiac mri": [
+                [
+                    false,
+                    46
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "ct scan": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "pacemakers": [
+                [
+                    false,
+                    50
+                ],
+                [
+                    false,
+                    86
+                ]
+            ]
+        }
+    },
+    {
+        "Chemical Biology": {
+            "chromatography": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "mass spectrometry": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "molecular dynamics": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "proteomics": [
+                [
+                    false,
+                    19
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "biomaterials": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "cell signaling": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    14
+                ]
+            ],
+            "gene expression": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "signal transduction": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    18
+                ]
+            ],
+            "metabolomics": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "chemical genetics": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "synthetic biology": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "cell biology": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    12
+                ]
+            ],
+            "pharmacology": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "computational biology": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "structural biology": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "drug discovery": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    86
+                ]
+            ]
+        }
+    },
+    {
+        "Communications": {
+            "information theory": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "modulation techniques": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    16
+                ]
+            ],
+            "coding schemes": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    88
+                ]
+            ],
+            "error correction": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "channel estimation": [
+                [
+                    false,
+                    72
+                ],
+                [
+                    false,
+                    94
+                ]
+            ],
+            "signal detection": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "communication systems": [
+                [
+                    false,
+                    100
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "telecommunications": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    73
+                ]
+            ],
+            "fiber optics": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "satellite communication": [
+                [
+                    false,
+                    93
+                ],
+                [
+                    false,
+                    82
+                ]
+            ]
+        }
+    },
+    {
+        "Endocrinology": {
+            "thyroid cancer": [
+                [
+                    false,
+                    57
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "metabolism": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "pituitary gland": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    71
+                ]
+            ],
+            "hypothyroidism": [
+                [
+                    false,
+                    73
+                ],
+                [
+                    false,
+                    71
+                ]
+            ],
+            "hyperthyroidism": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "type 1 diabetes": [
+                [
+                    false,
+                    74
+                ],
+                [
+                    false,
+                    72
+                ]
+            ],
+            "type 2 diabetes": [
+                [
+                    false,
+                    71
+                ],
+                [
+                    false,
+                    73
+                ]
+            ],
+            "obesity": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "pcos": [
+                [
+                    false,
+                    3
+                ],
+                [
+                    false,
+                    40
+                ]
+            ]
+        }
+    },
+    {
+        "Microbiology": {
+            "proteomics": [
+                [
+                    false,
+                    19
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "genomics": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "ebola": [
+                [
+                    false,
+                    15
+                ],
+                [
+                    false,
+                    57
+                ]
+            ],
+            "bioinformatics": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "metabolomics": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "cell biology": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    12
+                ]
+            ],
+            "infectious diseases": [
+                [
+                    false,
+                    15
+                ],
+                [
+                    false,
+                    69
+                ]
+            ],
+            "pathogens": [
+                [
+                    false,
+                    70
+                ],
+                [
+                    false,
+                    55
+                ]
+            ],
+            "antibiotics": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    65
+                ]
+            ],
+            "antimicrobial resistance": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "vaccines": [
+                [
+                    false,
+                    29
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "epidemiology": [
+                [
+                    false,
+                    57
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "microbial ecology": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    75
+                ]
+            ],
+            "environmental microbiology": [
+                [
+                    false,
+                    61
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "clinical microbiology": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "molecular microbiology": [
+                [
+                    false,
+                    89
+                ],
+                [
+                    false,
+                    85
+                ]
+            ]
+        }
+    },
+    {
+        "Physics": {
+            "chaos theory": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "circuitry": [
+                [
+                    false,
+                    100
+                ],
+                [
+                    false,
+                    9
+                ]
+            ],
+            "classical mechanics": [
+                [
+                    false,
+                    97
+                ],
+                [
+                    false,
+                    97
+                ]
+            ],
+            "cloning": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "collision": [
+                [
+                    false,
+                    72
+                ],
+                [
+                    false,
+                    6
+                ]
+            ],
+            "conservation laws": [
+                [
+                    false,
+                    22
+                ],
+                [
+                    false,
+                    96
+                ]
+            ],
+            "dark energy": [
+                [
+                    false,
+                    1
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "dark matter": [
+                [
+                    false,
+                    1
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "deceleration": [
+                [
+                    false,
+                    99
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "diffraction": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    94
+                ]
+            ]
+        }
+    },
+    {
+        "Aging": {
+            "stem cells": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "alzheimer's disease": [
+                [
+                    false,
+                    14
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "senescence": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    71
+                ]
+            ],
+            "biogerontology": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "longevity genes": [
+                [
+                    false,
+                    41
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "telomeres": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "mitochondrial function": [
+                [
+                    false,
+                    72
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "calorie restriction": [
+                [
+                    false,
+                    82
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "neurodegeneration": [
+                [
+                    false,
+                    20
+                ],
+                [
+                    false,
+                    59
+                ]
+            ]
+        }
+    },
+    {
+        "Machine Intelligence": {
+            "cognitive computing": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "data mining": [
+                [
+                    false,
+                    99
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "pattern recognition": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    92
+                ]
+            ],
+            "predictive analytics": [
+                [
+                    false,
+                    89
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "reinforcement learning": [
+                [
+                    false,
+                    93
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "natural language processing": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    69
+                ]
+            ],
+            "speech recognition": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "image recognition": [
+                [
+                    false,
+                    20
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "robotics": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "autonomous systems": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    false,
+                    88
+                ]
+            ]
+        }
+    },
+    {
+        "Plants": {
+            "genomics": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "phylogeny": [
+                [
+                    false,
+                    98
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "ecology": [
+                [
+                    false,
+                    77
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "molecular biology": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    95
+                ]
+            ],
+            "evolution": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    93
+                ]
+            ],
+            "taxonomy": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    79
+                ]
+            ],
+            "biomass": [
+                [
+                    false,
+                    91
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "bioenergy": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "agriculture": [
+                [
+                    false,
+                    100
+                ],
+                [
+                    false,
+                    12
+                ]
+            ],
+            "horticulture": [
+                [
+                    false,
+                    18
+                ],
+                [
+                    false,
+                    16
+                ]
+            ]
+        }
+    },
+    {
+        "Human Behaviour": {
+            "evolution": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    93
+                ]
+            ],
+            "consciousness": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "decision-making": [
+                [
+                    false,
+                    95
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "empathy": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "genetics": [
+                [
+                    false,
+                    76
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "intelligence": [
+                [
+                    false,
+                    70
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "learning": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    false,
+                    88
+                ]
+            ],
+            "memory": [
+                [
+                    false,
+                    99
+                ],
+                [
+                    false,
+                    93
+                ]
+            ],
+            "motivation": [
+                [
+                    false,
+                    92
+                ],
+                [
+                    false,
+                    90
+                ]
+            ]
+        }
+    },
+    {
+        "Medicine": {
+            "pharmacokinetics": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "pharmacodynamics": [
+                [
+                    false,
+                    10
+                ],
+                [
+                    false,
+                    76
+                ]
+            ],
+            "rheumatology": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    71
+                ]
+            ],
+            "infectious diseases": [
+                [
+                    false,
+                    15
+                ],
+                [
+                    false,
+                    69
+                ]
+            ],
+            "epidemiology": [
+                [
+                    false,
+                    57
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "biomedical sciences": [
+                [
+                    false,
+                    23
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "clinical studies": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "translational research": [
+                [
+                    false,
+                    93
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "personalized medicine": [
+                [
+                    false,
+                    6
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "genetic epidemiology": [
+                [
+                    false,
+                    90
+                ],
+                [
+                    false,
+                    11
+                ]
+            ]
+        }
+    },
+    {
+        "Genetics": {
+            "cancer genetics": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    89
+                ]
+            ],
+            "gene expression": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "dna replication": [
+                [
+                    false,
+                    20
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "pharmacogenomics": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    78
+                ]
+            ],
+            "evolution": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    93
+                ]
+            ],
+            "personalized medicine": [
+                [
+                    false,
+                    6
+                ],
+                [
+                    false,
+                    80
+                ]
+            ],
+            "heredity": [
+                [
+                    false,
+                    85
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "mutation": [
+                [
+                    false,
+                    88
+                ],
+                [
+                    false,
+                    87
+                ]
+            ],
+            "chromosomes": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    74
+                ]
+            ],
+            "alleles": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    73
+                ]
+            ],
+            "genetic variation": [
+                [
+                    false,
+                    80
+                ],
+                [
+                    false,
+                    91
+                ]
+            ],
+            "polymorphism": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    81
+                ]
+            ],
+            "genome editing": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    87
+                ]
+            ]
+        }
+    },
+    {
+        "Photonics": {
+            "fiber optics": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    84
+                ]
+            ],
+            "light manipulation": [
+                [
+                    false,
+                    17
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "photonic crystals": [
+                [
+                    false,
+                    93
+                ],
+                [
+                    false,
+                    91
+                ]
+            ],
+            "optoelectronics": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    92
+                ]
+            ],
+            "quantum photonics": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    90
+                ]
+            ],
+            "guided wave optics": [
+                [
+                    false,
+                    75
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "nonlinear optics": [
+                [
+                    false,
+                    93
+                ],
+                [
+                    false,
+                    94
+                ]
+            ],
+            "integrated photonics": [
+                [
+                    false,
+                    81
+                ],
+                [
+                    false,
+                    85
+                ]
+            ],
+            "photonic integrated circuits": [
+                [
+                    false,
+                    2
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "optical networking": [
+                [
+                    false,
+                    94
+                ],
+                [
+                    false,
+                    84
+                ]
+            ]
+        }
+    },
+    {
+        "Neurology": {
+            "stem cells": [
+                [
+                    false,
+                    84
+                ],
+                [
+                    false,
+                    77
+                ]
+            ],
+            "brain imaging": [
+                [
+                    false,
+                    87
+                ],
+                [
+                    false,
+                    82
+                ]
+            ],
+            "neurotransmitters": [
+                [
+                    false,
+                    79
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "parkinson's disease": [
+                [
+                    false,
+                    12
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "learning": [
+                [
+                    false,
+                    96
+                ],
+                [
+                    false,
+                    88
+                ]
+            ],
+            "memory": [
+                [
+                    false,
+                    99
+                ],
+                [
+                    false,
+                    93
+                ]
+            ],
+            "traumatic brain injury": [
+                [
+                    false,
+                    86
+                ],
+                [
+                    false,
+                    83
+                ]
+            ],
+            "neurodegeneration": [
+                [
+                    false,
+                    20
+                ],
+                [
+                    false,
+                    59
+                ]
+            ],
+            "neuroplasticity": [
+                [
+                    false,
+                    78
+                ],
+                [
+                    false,
+                    86
+                ]
+            ],
+            "neural networks": [
+                [
+                    false,
+                    29
+                ],
+                [
+                    true,
+                    74
+                ]
+            ],
+            "eeg": [
+                [
+                    false,
+                    40
+                ],
+                [
+                    false,
+                    22
+                ]
+            ],
+            "fmri": [
+                [
+                    false,
+                    5
+                ],
+                [
+                    false,
+                    78
+                ]
+            ]
+        }
+    }
+]
